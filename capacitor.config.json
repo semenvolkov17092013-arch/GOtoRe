@@ -1,0 +1,6 @@
+{
+  "appId": "com.gotore.game",
+  "appName": "GOtoRE",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
